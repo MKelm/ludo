@@ -1,5 +1,5 @@
 Ludo
-0.0.0-build pre-alpha
+0.0.1-build alpha
 
 libraries/inclusions
 - node-webkit (0.8.4, 2013-12-30 or higher)
